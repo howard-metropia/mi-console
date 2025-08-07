@@ -167,7 +167,7 @@ GET    /api/v1/users                 # User management
 GET    /api/v1/projects              # Project management
 ```
 
-#### **Challenge Configuration**
+#### **NEW Challenge Configuration**
 ```
 GET    /api/v1/bingocard-types        # Available challenge types
 POST   /api/v1/bingocard-types        # Create challenge type
@@ -192,7 +192,7 @@ PUT    /api/v2/campaigns/{id}               # Update incentive campaign
 DELETE /api/v2/campaigns/{id}               # Delete incentive campaign
 ```
 
-#### **Bingocard Management**
+#### **NEW Bingocard Management**
 ```
 GET    /api/v2/bingocard-types              # List bingocard types
 POST   /api/v2/bingocard-types              # Create bingocard type
